@@ -81,7 +81,7 @@ Licensed under the MIT License. See `LICENSE` for details.
 
 ## Support
 Like this project? Give it a ⭐ on GitHub or:  
-[Buy Me a Coffee](https://buymeacoffee.com/jakubsdf)  
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=flat&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/jakubsdf) 
 
 ---
 
