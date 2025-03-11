@@ -30,7 +30,7 @@ void loop() {
 
   displayFonts.drawChar(0, 0, '0' + (minutes / 10));   // Tens digit of minutes
   displayFonts.drawChar(7, 0, '0' + (minutes % 10));   // Units digit of minutes
-  displayFonts.drawChar(14, 0, ':');                   // Colon
+  displayFonts.drawChar(12, 0, ':');                   // Colon
   displayFonts.drawChar(16, 0, '0' + (seconds / 10));  // Tens digit of seconds
   displayFonts.drawChar(23, 0, '0' + (seconds % 10));  // Units digit of seconds
 
