@@ -83,4 +83,4 @@ Licensed under the MIT License. See `LICENSE` for details.
 Like this project? Give it a ⭐ on GitHub or:  
 [![Buy Me a Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=flat&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/jakubsdf) 
 
-
+[![Arduino Library Manager](https://img.shields.io/static/v1?label=Arduino&message=Library%20Manager&color=00979D&logo=arduino&logoColor=white)](https://www.arduino.cc/reference/en/libraries/leddisplayfonts/)
